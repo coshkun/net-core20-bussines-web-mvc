@@ -11507,11 +11507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/app.coskun/GitHub/Personal/dotnettutorials/fullybusiness/Presentation/fullybusiness.UI/fullybusiness.UI.csproj",
+      "projectUniqueName": "/Users/app.coskun/GitHub/Personal/dotnettutorials/net-core20-bussines-web-mvc/fullybusiness/Presentation/fullybusiness.UI/fullybusiness.UI.csproj",
       "projectName": "fullybusiness.UI",
-      "projectPath": "/Users/app.coskun/GitHub/Personal/dotnettutorials/fullybusiness/Presentation/fullybusiness.UI/fullybusiness.UI.csproj",
+      "projectPath": "/Users/app.coskun/GitHub/Personal/dotnettutorials/net-core20-bussines-web-mvc/fullybusiness/Presentation/fullybusiness.UI/fullybusiness.UI.csproj",
       "packagesPath": "/Users/app.coskun/.nuget/packages/",
-      "outputPath": "/Users/app.coskun/GitHub/Personal/dotnettutorials/fullybusiness/Presentation/fullybusiness.UI/obj/",
+      "outputPath": "/Users/app.coskun/GitHub/Personal/dotnettutorials/net-core20-bussines-web-mvc/fullybusiness/Presentation/fullybusiness.UI/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

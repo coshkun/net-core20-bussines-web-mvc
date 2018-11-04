@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/app.coskun/GitHub/Personal/dotnettutorials/fullybusiness/Libraries/fullybusiness.Domain/fullybusiness.Domain.csproj",
+      "projectUniqueName": "/Users/app.coskun/GitHub/Personal/dotnettutorials/net-core20-bussines-web-mvc/fullybusiness/Libraries/fullybusiness.Domain/fullybusiness.Domain.csproj",
       "projectName": "fullybusiness.Domain",
-      "projectPath": "/Users/app.coskun/GitHub/Personal/dotnettutorials/fullybusiness/Libraries/fullybusiness.Domain/fullybusiness.Domain.csproj",
+      "projectPath": "/Users/app.coskun/GitHub/Personal/dotnettutorials/net-core20-bussines-web-mvc/fullybusiness/Libraries/fullybusiness.Domain/fullybusiness.Domain.csproj",
       "packagesPath": "/Users/app.coskun/.nuget/packages/",
-      "outputPath": "/Users/app.coskun/GitHub/Personal/dotnettutorials/fullybusiness/Libraries/fullybusiness.Domain/obj/",
+      "outputPath": "/Users/app.coskun/GitHub/Personal/dotnettutorials/net-core20-bussines-web-mvc/fullybusiness/Libraries/fullybusiness.Domain/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

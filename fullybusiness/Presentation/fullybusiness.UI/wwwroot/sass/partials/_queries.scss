@@ -1,0 +1,48 @@
+
+@media(max-width: 1170px){
+.logo-menu .main-menu .nav > li{
+			padding: 0 0;
+		}
+}
+@media(max-width: 900px){
+.logo-menu .main-menu .navbar-default .navbar-nav > li > a{
+			padding: 20.5px 18px;
+		}
+}
+
+@media(max-width: 767px){
+.navbar-default .navbar-toggle{
+			border-color: $theme;
+			border-radius: 0;
+			margin-top: -60px;
+			&:focus{
+				background:none;
+			}
+		}
+.navbar-default .navbar-toggle .icon-bar{
+	background: $theme;
+}
+.navbar{
+	min-height: 1px;
+}
+.logo-menu .main-menu .navbar-default .navbar-nav > li > a{
+	text-align: left;
+	padding: 10px 15px;
+	border-bottom: 1px solid #f0f0f0;
+	i{
+		margin-right: 8px;
+	}
+}
+.logo-menu .main-menu .navbar-default .navbar-nav > li > a br{
+	display: none;
+}
+.logo-menu{
+	position: relative;
+}
+footer .copyright .social-media{
+	text-align: center;
+}
+footer .copyright p{
+	text-align: center;
+}
+}

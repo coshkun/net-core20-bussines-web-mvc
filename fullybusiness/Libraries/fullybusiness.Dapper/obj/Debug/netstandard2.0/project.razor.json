@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/app.coskun/GitHub/Personal/dotnettutorials/fullybusiness/Libraries/fullybusiness.Dapper/fullybusiness.Dapper.csproj",
+  "TargetFramework": "netstandard2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
